@@ -9,6 +9,6 @@ http://rdkit.chenzhaoqiang.com/index.html
 https://www.rdkit.org/docs/index.html  
 https://github.com/dreadlesss/rdkit_summary
 
-2.2026年3月16日-3月日Rdkit的初步应用
+2.2026年3月16日-3月日Rdkit的应用    
 (1)分子相似性计算和热图的生成
 
