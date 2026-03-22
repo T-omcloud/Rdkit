@@ -1,5 +1,4 @@
-# Rdkit
-化学+AI
+# 化学+AI
 
 阶段一：Rdkit学习  
 
